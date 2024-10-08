@@ -46,3 +46,9 @@ body{
     cursor: pointer;
     font-size: 16px;
 }
+.Buy:hover{
+    color: #d25025;
+}
+.cart:hover{
+    color: #153c1e;
+}
